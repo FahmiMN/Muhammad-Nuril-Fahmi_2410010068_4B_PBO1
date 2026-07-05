@@ -12,7 +12,7 @@ Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman beror
 
 Berikut adalah bagian kode yang relevan dengan konsep OOP yang dijelaskan:
 
-1. **Class** adalah template atau blueprint dari object. Pada kode ini, `Booking`, `BookingDetail`, dan `StudioBeraksi` adalah contoh dari class.
+1. **Class** adalah template atau blueprint dari object. Pada kode ini, `Booking`, `BookingDetail`, dan `StudioMain` adalah contoh dari class.
 
 ```bash
 public class Booking {
@@ -23,7 +23,7 @@ public class BookingDetail extends Booking {
     ...
 }
 
-public class StudioBeraksi {
+public class StudioMain {
     ...
 }
 ```
