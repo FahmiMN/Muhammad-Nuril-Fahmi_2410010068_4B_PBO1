@@ -78,3 +78,7 @@ $RECYCLE.BIN/
 .fuse_hidden*
 .directory
 .Trash-*
+# NetBeans project files
+nbproject/
+build.xml
+manifest.mf
